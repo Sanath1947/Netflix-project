@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AWS DevOps CICD Pipeline
 
 In This Project, we are Developing and Deploying a video streaming application on EC2 using Docker and AWS Developers Tools.
@@ -343,3 +344,6 @@ If you found this helpful, consider **starring** ⭐ the repository and sharing 
 ### 📢 Stay Connected  
 
 ![Follow Me](https://imgur.com/2j7GSPs.png)
+=======
+# Netflix-project
+>>>>>>> d78043f09f8298d2406d9e02d5ef76436da13af2
